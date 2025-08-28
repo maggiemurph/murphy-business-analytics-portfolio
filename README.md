@@ -5,3 +5,7 @@ Welcome! This portfolio showcases my analytics projects where I turn data into b
 ### Projects
 - Moneyball in the Midwest: Analyzing Salary Efficiency in the AL Central 
  [Final Project-Murphy-completed.pptx](https://github.com/user-attachments/files/22016113/Final.Project-Murphy-completed.pptx)
+
+
+### Skills 
+SQL | Python | R | Tableau | Excel 
